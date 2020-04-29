@@ -31,3 +31,4 @@ markdown_extensions:
     - pymdownx.progressbar
     - pymdownx.tabbed
     - pymdownx.extra
+    - pymdownx.tocm
