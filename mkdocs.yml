@@ -2,6 +2,7 @@ site_name: PYBOSSA Documentation
 #theme: 'material'
 theme: 'readthedocs'
 markdown_extensions:
+    - tocm
     - toc:
         permalink: True
     - admonition
@@ -31,4 +32,3 @@ markdown_extensions:
     - pymdownx.progressbar
     - pymdownx.tabbed
     - pymdownx.extra
-    - pymdownx.tocm
